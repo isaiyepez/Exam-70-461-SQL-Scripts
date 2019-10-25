@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scripts for 70-461">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ISAI-ACERLAPTOP:ISAI-ACERLAPTOP\isaiy">
+          <Created>2019-09-10T18:53:50.8243755-05:00</Created>
+          <Type>SQL</Type>
+          <Server>ISAI-ACERLAPTOP</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Manipulating JSON data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Manipulating JSON data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective 6c Dynamic SQL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective 6c Dynamic SQL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective10 XMLData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective10 XMLData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective14 Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective14 Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective6b Synonyms.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective6b Synonyms.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective7 Subqueries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective7 Subqueries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective7b Pivot Unpivot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective7b Pivot Unpivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective7d CTE Statement.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective7d CTE Statement.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective8c GUID Sequences.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective8c GUID Sequences.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective9 Grouping.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective9 Grouping.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Objective9c Spatial aggregates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Objective9c Spatial aggregates.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
