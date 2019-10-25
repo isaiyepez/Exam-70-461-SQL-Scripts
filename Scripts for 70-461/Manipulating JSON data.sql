@@ -32,5 +32,8 @@ SELECT JSON_MODIFY(@json, 'strict $.Shopping.Items[1].Item', 'Big Apples')
 SELECT JSON_MODIFY(@json, '$.Date','2019-10-22')--Avoid strict because you are adding a new value
 SELECT JSON_MODIFY(@json, 'strict $.Shopping.Items[0]', JSON_QUERY('{"Item":"Big Bananas","Cost":1}'))
 
+--Converting from JSON to a SQL Table
 SELECT * FROM OPENJSON(@json, '$.Shopping.Items')
 	WITH (Item varchar(10), Cost INT)
+
+--Converting from a SQL Table to JSON
