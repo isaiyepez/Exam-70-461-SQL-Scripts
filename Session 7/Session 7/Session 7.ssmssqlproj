@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Session 7">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ISAI-ACERLAPTOP:ISAI-ACERLAPTOP\isaiy">
+          <Created>2019-10-27T22:12:06.7217577-06:00</Created>
+          <Type>SQL</Type>
+          <Server>ISAI-ACERLAPTOP</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreateDatabaseSession7.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CreateDatabaseSession7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Implicit Transactions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Implicit Transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Session 7 Notes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Session 7 Notes.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -37,3 +37,4 @@ SELECT * FROM OPENJSON(@json, '$.Shopping.Items')
 	WITH (Item varchar(10), Cost INT)
 
 --Converting from a SQL Table to JSON
+SELECT TOP 5 * FROM tblEmployee FOR JSON PATH
