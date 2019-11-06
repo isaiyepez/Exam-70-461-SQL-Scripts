@@ -37,6 +37,12 @@
           <AssociatedConnUserName />
           <FullPath>Mark a Transaction.sql</FullPath>
         </FileNode>
+        <FileNode Name="Re-introducing Query plans.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Re-introducing Query plans.sql</FullPath>
+        </FileNode>
         <FileNode Name="Session 7 Notes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
