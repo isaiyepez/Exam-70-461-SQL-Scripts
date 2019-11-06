@@ -25,17 +25,29 @@
           <AssociatedConnUserName />
           <FullPath>CreateDatabaseSession7.sql</FullPath>
         </FileNode>
-        <FileNode Name="Implicit Transactions.sql">
+        <FileNode Name="Explicit Transactions.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Implicit Transactions.sql</FullPath>
+          <FullPath>Explicit Transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mark a Transaction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Mark a Transaction.sql</FullPath>
         </FileNode>
         <FileNode Name="Session 7 Notes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Session 7 Notes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TranCount.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TranCount.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
