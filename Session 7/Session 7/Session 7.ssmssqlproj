@@ -31,6 +31,12 @@
           <AssociatedConnUserName />
           <FullPath>Explicit Transactions.sql</FullPath>
         </FileNode>
+        <FileNode Name="Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Indexes.sql</FullPath>
+        </FileNode>
         <FileNode Name="Mark a Transaction.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>

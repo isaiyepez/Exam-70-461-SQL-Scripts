@@ -9,6 +9,26 @@
 -- Isolated, each transaction uses only the specific part of the data that will need.
 -- Durable, after it is completed, its effects are permanent.
 
+-- TYPE OF LOCKS
+
+-- 1. Intent shared (IS)
+-- 2. Shared (S)
+-- 3. Update (U)
+-- 4. Intent exclusive (IX)
+-- 5. Shared with intent exclusive (SIX)
+-- 6. Exclusive (X)
+
+-- Shared locks: select statements, allows concurrent transactions to read, but no other transactions
+-- can modify the data. Released as soon as the read operation is completed
+
+-- Update locks: used to prevent deadlock. To update data, must convert to exclusive. Cannot convert 
+-- to exclusive if there is a shared lock.
+
+-- Exclusive locks: prevents access by concurrent transactions.
+-- Used by INSERT, UPDATE, DELETE
+
+-- Intent locks: signal intent to place locks at a lower level. Prevent other transactions from 
+-- modifying higher level resources. Detecting lock conflicts.
 
 -- RESULTS OF NO CONCURRENCY CONTROL
 
