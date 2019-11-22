@@ -3,6 +3,9 @@ CREATE CLUSTERED INDEX idx_tblEmployee ON [dbo].[tblEmployee]([EmployeeNumber])
 DROP INDEX idx_tblEmployee ON [dbo].[tblEmployee]
 -- Clustered index has not to be unique
 
+-- NOTE: It's better to create a clustered index as UNIQUE. You will constraint the users to only add 
+-- non-repeated values to the table, and it's more efficient for the database engine.
+
 select * FROM [dbo].[tblEmployee] WHERE EmployeeNumber = 127
 --Now it will go through index seek instead a table scan
 -- NOTE: A primary key is also a Clustered Index
@@ -48,4 +51,3 @@ INCLUDE ([EmployeeFirstName],[EmployeeMiddleName],[EmployeeLastName])
 
 -- Unless you have special requirements, try to use clustered indexes instead of nonclustered.
 -- Clustered indexes change the table, nonclustered does not.
-

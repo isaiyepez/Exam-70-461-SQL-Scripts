@@ -25,6 +25,12 @@
           <AssociatedConnUserName />
           <FullPath>CreateDatabaseSession7.sql</FullPath>
         </FileNode>
+        <FileNode Name="Cursor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cursor.sql</FullPath>
+        </FileNode>
         <FileNode Name="Explicit Transactions.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
@@ -42,6 +48,12 @@
           <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Mark a Transaction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Optimize queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ISAI-ACERLAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Optimize queries.sql</FullPath>
         </FileNode>
         <FileNode Name="Re-introducing Query plans.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ISAI-ACERLAPTOP:True</AssociatedConnectionMoniker>
